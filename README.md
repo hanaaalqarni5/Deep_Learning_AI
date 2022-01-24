@@ -27,3 +27,9 @@ we extracted the dataset from Kaggle website contain:
 Ensuring that Saudi society remains free of problems and free from inherently immoral behaviors. 
 
 
+## Team members: 
+Hanaa Alqarni , Ebtesam Sultan , Nuha Aljohani
+
+
+## Instructor:
+Mohammad El Deeb , Kinza Waqar.
